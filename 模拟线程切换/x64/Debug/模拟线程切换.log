@@ -1,0 +1,62 @@
+﻿  main.cpp
+  ThreadSwitch.cpp
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(73,53): warning C4311: “类型强制转换”: 从“GMThread_t *”到“unsigned int”的指针截断
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(73,53): warning C4302: “类型强制转换”: 从“GMThread_t *”到“unsigned int”截断
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(75,59): warning C4311: “类型强制转换”: 从“void (__cdecl *)(GMThread_t *)”到“unsigned int”的指针截断
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(75,59): warning C4302: “类型强制转换”: 从“void (__cdecl *)(GMThread_t *)”到“unsigned int”截断
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(110,12): error C2485: “naked”: 无法识别的扩展特性
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(112,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(115,3): error C2065: “push”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(115,8): error C2146: 语法错误: 缺少“;”(在标识符“ebp”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(115,8): error C2065: “ebp”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(116,3): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(116,3): error C2065: “mov”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(116,7): error C2146: 语法错误: 缺少“;”(在标识符“ebp”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(116,7): error C2065: “ebp”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(116,12): error C2065: “esp”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(119,3): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(119,3): error C2065: “push”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(119,8): error C2146: 语法错误: 缺少“;”(在标识符“edi”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(119,8): error C2065: “edi”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(120,3): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(120,3): error C2065: “push”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(120,8): error C2146: 语法错误: 缺少“;”(在标识符“esi”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(120,8): error C2065: “esi”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(121,3): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(121,3): error C2065: “push”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(121,8): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(121,8): error C2065: “ebx”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(122,3): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(122,3): error C2065: “push”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(122,8): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(122,8): error C2065: “ecx”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(123,3): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(123,3): error C2065: “push”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(123,8): error C2146: 语法错误: 缺少“;”(在标识符“edx”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(123,8): error C2065: “edx”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(124,3): error C2146: 语法错误: 缺少“;”(在标识符“push”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(124,3): error C2065: “push”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(124,8): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(124,8): error C2065: “eax”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(126,3): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(126,3): error C2065: “mov”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(126,7): error C2146: 语法错误: 缺少“;”(在标识符“esi”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(126,7): error C2065: “esi”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(127,3): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(127,3): error C2065: “mov”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(127,7): error C2146: 语法错误: 缺少“;”(在标识符“edi”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(127,7): error C2065: “edi”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(129,3): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(129,3): error C2065: “mov”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(129,7): error C2065: “esi”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(129,13): error C2275: “GMThread_t”: 应为表达式而不是类型
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(129,38): error C2065: “esp”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(132,3): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(132,3): error C2065: “mov”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(132,7): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(132,7): error C2065: “esp”: 未声明的标识符
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(132,17): error C2760: 语法错误:此处出现意外的“+”；应为“,”
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(132,19): error C2275: “GMThread_t”: 应为表达式而不是类型
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(132,41): error C2059: 语法错误:“]”
+S:\海哥内核\进程线程\模拟线程切换\模拟线程切换\ThreadSwitch.cpp(171,36): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
